@@ -1,7 +1,7 @@
 # RoboAI Stark Client
 
 [![PyPI version](https://img.shields.io/pypi/v/roboai-stark-client.svg)](https://pypi.org/project/roboai-stark-client/)
-[![Python versions](https://img.shields.io/pypi/pyversions/roboai-stark-client.svg)](https://pypi.org/project/roboai-stark-client/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Lightweight Python client SDK and command-line helper for the RoboAI
